@@ -1,0 +1,9 @@
+{
+  "name": "axutongxue-storage",
+  "version": "1.0.0",
+  "description": "阿虚同学的储物间",
+  "scripts": {
+    "build": "echo 'No build step required for static HTML'"
+  },
+  "devDependencies": {}
+}
